@@ -1,4 +1,4 @@
-# HWT905-RS485
+# SINDT-RS485
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/HWT905-RS485
+https://github.com/WITMOTION/SINDT-RS485
 
 Google Drive: 
-https://drive.google.com/open?id=1w-_JR3ePrYNDjyPX2kuOCh0XKBHZI2LR
+https://drive.google.com/open?id=1jjYaHHcUZnDuGpy5UEgCb9kO1sP1uHoF
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905-RS485 Playlist: 
-https://www.youtube.com/watch?v=1Fzp9-R06bo&list=PL43tdDrVL_VA8effnx45yM88R0IUPqCwX
+SINDT-RS485 Playlist: 
+https://www.youtube.com/watch?v=-uiAfn5VaTg&list=PL43tdDrVL_VBjO8tRvbQ54sa-ZXzebGIY
 
 -----------
 After-sale Service& Technical Support: 
